@@ -1,0 +1,4 @@
+Feature,KS Statistic,p-value,Status
+Tenure Months,0.03443485033337671,0.22993188958615327,No Drift Detected
+Monthly Charges,0.03408480823185623,0.23860660962020053,No Drift Detected
+Total Charges,0.04042907522932384,0.10217432374995472,No Drift Detected
